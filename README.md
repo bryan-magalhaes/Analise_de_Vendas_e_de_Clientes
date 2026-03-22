@@ -1,2 +1,2 @@
 # Analise_de_Vendas_e_de_Clientes
-!(pasta-projeto/visao-geral-e-analise-por-clientes-1.png)
+![Visão Geral](images/visao-geral-e-analise-por-clientes-1.png)
