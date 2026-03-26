@@ -11,7 +11,7 @@
 - Byrow
 - Lambda
 - Índice
-- Médise
+- Médiase
 
 ### **Tabela Principal**
 
