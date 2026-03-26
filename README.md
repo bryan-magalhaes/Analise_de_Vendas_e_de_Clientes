@@ -19,7 +19,7 @@
 
 Essa é a tabela que vamos trabalhar.
 
-<img width="1020" height="380" alt="Image" src="https://github.com/user-attachments/assets/5bfaf705-54d2-4dd8-b940-5a45cf6622f8" />
+![imagem 2](<img width="1089" height="383" alt="imagem-2" src="https://github.com/user-attachments/assets/dfae2a78-c15a-4441-ae5b-e582b2f469c5" />)
 
 Percebe-se que 35,6% do lucro total está concentrado em um único cliente, o que evidencia uma alta dependência. Isso representa um risco financeiro, pois a perda desse cliente impactaria consideravelmente a receita e exigiria ajustes nos custos da empresa, por exemplo. 
 
