@@ -1,6 +1,6 @@
 # Link da Planilha: [Projeto Análise de Vendas](https://docs.google.com/spreadsheets/d/1NpsMOoL3hjd6Vbnu83k_-tL4KyszefMcjY8XwWqKwTg/edit?usp=sharing)
 
-Recomando que acesse a planilha mais tarde para ver os detalhes das fórmulas.
+Recomendo que acesse a planilha mais tarde para ver os detalhes das fórmulas.
 
 ### **Objetivos:**
 
