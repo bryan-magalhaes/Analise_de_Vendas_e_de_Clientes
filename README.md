@@ -31,10 +31,3 @@ Percebe-se que 35,6% do lucro total está concentrado em um único cliente, o qu
 
 Compras acima do ticket médio geral indicam maior valor por transação, mas não necessariamente fidelidade.
 Já compras R$ 2.000 acima do ticket médio individual destacam clientes de alto valor, com potencial para classificação como VIP, caso apresentem recorrência.
-
-Para uma análise mais precisa de fidelidade, seria necessário considerar a frequência de compras de cada cliente.
-
-
-
-
-
